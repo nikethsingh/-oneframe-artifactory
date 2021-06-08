@@ -12,7 +12,7 @@ const Button = (props) => {
 }
 
 const StyledButton = styled(Button)`
-    border-radius: 5px;
+    border-radius: 10px;
     background-color: '#a1cdf1';
     color: #fff;
     padding: 10px 15px;
