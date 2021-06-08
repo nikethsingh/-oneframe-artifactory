@@ -58,7 +58,7 @@
     "webpack-cli": "^4.7.0"
   },
   "config": {
-    "private": true,
+    "private": false,
     "plugins": [
       "@semantic-release/commit-analyzer",
       "@semantic-release/release-notes-generator",
