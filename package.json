@@ -1,5 +1,5 @@
 {
-  "name": "@oneframe/artifactory",
+  "name": "oneartifact",
   "version": "v1.0.3",
   "description": "oneframe",
   "main": "lib/index.js",
